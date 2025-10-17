@@ -3,7 +3,7 @@
   "homepage": "https://github.com/Respite09/Arc-2.0-No-MacOS-Buttons/",
   "author": "YashjitPal",
   "name": "Arc 2.0 (No MacOS buttons)",
-  "description": "Arc-like Zen Browser theme.",
+  "description": "Arc 2.0 but with no MacOS buttons",
   "version": "3.2.9",
   "style":{"chrome": "https://raw.githubusercontent.com/Respite09/Arc-2.0-No-MacOS-Buttons/refs/heads/main/userChrome.css",
     "content": "https://raw.githubusercontent.com/Respite09/Arc-2.0-No-MacOS-Buttons/refs/heads/main/userContent.css"},
