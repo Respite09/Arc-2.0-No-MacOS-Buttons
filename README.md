@@ -4,7 +4,7 @@
 </div>
 <h1 align="center" style="font-size: 2.5em;">Arc 2.0 (No MacOS Buttons)</h1>
 
-<p align="center">Arc 2.0 but without the MacOS buttons! (iykyk).</p>
+<p align="center">Arc 2.0 but without the MacOS buttons!.</p>
 
 <div align="center">
     <a href="https://zen-browser.app/">
