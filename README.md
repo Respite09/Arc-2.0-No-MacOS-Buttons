@@ -2,9 +2,9 @@
 <div align="center">
 <img width="200" src="https://github.com/user-attachments/assets/f9a25afb-2503-421a-bed0-6e94f2ab43db" />
 </div>
-<h1 align="center" style="font-size: 2.5em;">Arc 2.0</h1>
+<h1 align="center" style="font-size: 2.5em;">Arc 2.0 (No MacOS Buttons)</h1>
 
-<p align="center">Arc which receives non-chromium updates every 1-2 weeks! (iykyk).</p>
+<p align="center">Arc 2.0 but without the MacOS buttons! (iykyk).</p>
 
 <div align="center">
     <a href="https://zen-browser.app/">
@@ -14,6 +14,21 @@
 
 ##
 ![image](https://github.com/user-attachments/assets/19211d6b-69e4-442c-99c4-655c48f5a8c5)
+
+## wait what is this for?
+I ran into this weird issue where the buttons would look like this:
+<img width="260" height="95" alt="Screenshot 2025-10-17 075545" src="https://github.com/user-attachments/assets/f51417be-f272-4096-9d83-0b8a1be296a0" />
+
+So I decided to just default to the regular ones:
+<img width="186" height="68" alt="Screenshot 2025-10-17 080609" src="https://github.com/user-attachments/assets/a22e452b-a7e6-4efb-93c9-d062c7b1efe1" />
+
+If anyone had that problem I hope this helps :P
+
+## does it install differently?
+Not really, although if you're using sine you'll need to install it through the "add your own locally" option
+<img width="466" height="95" alt="image" src="https://github.com/user-attachments/assets/cdf6acd3-4ad4-4af1-a51c-979d3679db25" />
+
+---original read me starts here---
 
 ## What is Arc 2.0?
 Arc 2.0 Browser is a skin made for Zen Browser that adds lots of polish to the design by incorporating animations, blurs and more. It's pretty much the skin I personally use, but made public because people wanted the CSS. This skin is inspired by Arc browser and some other Zen skins (listed in credits).
